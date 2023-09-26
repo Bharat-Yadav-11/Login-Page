@@ -19,14 +19,14 @@ body {
     width: 400px;
     height: 470px;
     max-width: 400px;
-    max-height: 470px;
+    min-height: 520px;
     background: #040717;
     border-radius: 50px 5px;
     display: flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    margin-top: 70px;
+    margin-top: 60px;
 }
 
 .login_form_container::before {
